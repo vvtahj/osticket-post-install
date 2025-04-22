@@ -41,6 +41,21 @@
 ## 📸 Screenshots *(drop your screenshots here)*  
 > Setup views, agent panel, end-user ticket submission, SLA config, etc.
 
+<img src="https://github.com/user-attachments/assets/abfe48bc-eb7d-48be-8a77-327b26f7ee3b" width="500"/>
+<img src="https://github.com/user-attachments/assets/a0765b2b-761d-4720-af93-01f1d1b2dd58" width="500"/>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d98ea5d-3fd0-40c7-b340-8b75d9fd160b" width="850"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/156a4441-4b0d-4e85-9645-ead4411caea2" width="850"/>
+</p>
+ <figcaption> </figcaption>
+</figure>
+
+
 ---
 
 ## 💡 Key Takeaways
