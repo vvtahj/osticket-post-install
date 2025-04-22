@@ -43,18 +43,25 @@
 
 <img src="https://github.com/user-attachments/assets/abfe48bc-eb7d-48be-8a77-327b26f7ee3b" width="500"/>
 <img src="https://github.com/user-attachments/assets/a0765b2b-761d-4720-af93-01f1d1b2dd58" width="500"/>
+  <figcaption><strong>Figure 1:</strong> Side-by-side view of the osTicket Agent Panel and the end-user Support Center interface for submitting and managing tickets.</figcaption>
+</figure>
 
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4d98ea5d-3fd0-40c7-b340-8b75d9fd160b" width="850"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/156a4441-4b0d-4e85-9645-ead4411caea2" width="850"/>
-</p>
- <figcaption> </figcaption>
+<figcaption><strong>Figure 3:</strong> Navigation panel under the "Agents" tab, showing options to manage agents, teams, roles, and departments within the osTicket admin interface.</figcaption>
 </figure>
 
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/156a4441-4b0d-4e85-9645-ead4411caea2" width="675" height="500"/>
+</p>
+ <figcaption><strong>Figure 2:</strong> SLA (Service Level Agreement) configuration panel showing how grace periods and schedule rules are defined for overdue tickets.</figcaption>
+</figure>
 
 ---
 
